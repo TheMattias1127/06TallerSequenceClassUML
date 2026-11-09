@@ -12,16 +12,16 @@ public class Handler {
     }
 
     public boolean isChanged() {
-        // Cuerpo vacío según instrucciones (retorna valor por defecto para compilar)
+        // Cuerpo vacío (retorna valor por defecto para compilar).
         return false; 
     }
 
     public Object getDetail() {
-        // Retorna el mensaje "result" indicado en el diagrama
+        // Retorna el mensaje "result".
         return null; 
     }
 
     public void reset() {
-        // Cuerpo vacío según instrucciones
+        // Cuerpo vacío.
     }
 }
